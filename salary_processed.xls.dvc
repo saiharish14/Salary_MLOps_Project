@@ -1,0 +1,5 @@
+outs:
+- md5: 5095ad303980840abed82332f53baffc
+  size: 20646
+  hash: md5
+  path: salary_processed.xls
